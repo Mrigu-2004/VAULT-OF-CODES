@@ -1,0 +1,67 @@
+[
+    {
+        "amount": 500.0,
+        "category": "Food",
+        "date": "2024-09-29"
+    },
+    {
+        "amount": 1000.0,
+        "category": "Entertainment",
+        "date": "2024-09-29"
+    },
+    {
+        "amount": 600.0,
+        "category": "Life",
+        "date": "2024-09-29"
+    },
+    {
+        "amount": 500.0,
+        "category": "Food",
+        "date": "2024-10-08"
+    },
+    {
+        "amount": 670.0,
+        "category": "Food",
+        "date": "2024-10-08"
+    },
+    {
+        "amount": 700.0,
+        "category": "Transport",
+        "date": "2024-10-13"
+    },
+    {
+        "amount": 600.0,
+        "category": "Entertainment",
+        "date": "2024-10-13"
+    },
+    {
+        "amount": 100.0,
+        "category": "Transport",
+        "date": "2024-10-14"
+    },
+    {
+        "amount": 900.0,
+        "category": "Transport",
+        "date": "2024-10-17"
+    },
+    {
+        "amount": 100.0,
+        "category": "Entertainment",
+        "date": "2024-10-17"
+    },
+    {
+        "amount": 100.0,
+        "category": "Food",
+        "date": "2024-10-17"
+    },
+    {
+        "amount": 100.0,
+        "category": "Transport",
+        "date": "2024-10-17"
+    },
+    {
+        "amount": 100.0,
+        "category": "FOOD",
+        "date": "2024-10-18"
+    }
+]
